@@ -1098,7 +1098,7 @@ audio {
 	-ms-animation: hoahong_come linear 3s;
 	-ms-transform:translate(0px,0px);
 	animation: hoahong_come linear 3s;
-	transform:translate(0px,-300px);
+	transform:translate(0px,-500px);
 }
 @-webkit-keyframes hoahong_come {
 	0%{
@@ -1115,7 +1115,6 @@ audio {
 	}
 	100% {
 		-webkit-transform:translate(0px,-500px);
-                 transform:rotate(-60deg);
 	}
 }
 @-moz-keyframes hoahong_come {
