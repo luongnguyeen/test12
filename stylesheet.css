@@ -1098,7 +1098,7 @@ audio {
 	-ms-animation: hoahong_come linear 15s;
 	-ms-transform:translate(0px,0px);
 	animation: hoahong_come linear 15s;
-	transform:translate(0px,0px);
+	transform:translate(0px,-400px);
 }
 @-webkit-keyframes hoahong_come {
 	0%{
