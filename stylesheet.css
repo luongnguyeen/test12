@@ -1089,16 +1089,16 @@ audio {
 
 }
 .hoahong-come {
-	-webkit-animation: hoahong_come linear 15s;
+	-webkit-animation: hoahong_come linear 8s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: hoahong_come linear 15s;
+	-moz-animation: hoahong_come linear 8s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: hoahong_come linear 15s;
+	-o-animation: hoahong_come linear 8s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: hoahong_come linear 15s;
+	-ms-animation: hoahong_come linear 8s;
 	-ms-transform:translate(0px,0px);
-	animation: hoahong_come linear 15s;
-	transform:translate(0px,-400px);
+	animation: hoahong_come linear 8s;
+	transform:translate(0px,-200px);
 }
 @-webkit-keyframes hoahong_come {
 	0%{
@@ -1183,6 +1183,7 @@ audio {
 	}
 	100% {
 		transform:translate(0px,0px);
+		transform:rotate(-30deg);
 	}
 }
 /* Hoa-hong-effec End */
