@@ -1089,15 +1089,15 @@ audio {
 
 }
 .hoahong-come {
-	-webkit-animation: hoahong_come linear 6s;
+	-webkit-animation: hoahong_come linear 3s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: hoahong_come linear 6s;
+	-moz-animation: hoahong_come linear 3s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: hoahong_come linear 6s;
+	-o-animation: hoahong_come linear 3s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: hoahong_come linear 6s;
+	-ms-animation: hoahong_come linear 3s;
 	-ms-transform:translate(0px,0px);
-	animation: hoahong_come linear 6s;
+	animation: hoahong_come linear 3s;
 	transform:translate(0px,-300px);
 }
 @-webkit-keyframes hoahong_come {
