@@ -1085,7 +1085,7 @@ audio {
 	-o-transform:translate(0px,-800px);
 	-ms-transform:translate(0px,-800px);
 	transform:translate(-800px,0px);
-	z-index: 9999;
+	/*z-index: 9999;*/
 
 }
 .hoahong-come {
