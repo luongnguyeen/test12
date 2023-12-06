@@ -1079,7 +1079,7 @@ audio {
 
 /* Hoa-hong-effec Start */
 .hoahong {
-	max-width: 50%;
+	max-width: 100%;
 	-webkit-transform:translate(0px,-500px);
 	-moz-transform:translate(0px,-500px);
 	-o-transform:translate(0px,-500px);
@@ -1097,7 +1097,7 @@ audio {
 	-ms-animation: hoahong_come linear 3s;
 	-ms-transform:translate(0px,0px);
 	animation: hoahong_come linear 3s;
-	transform:translate(0px,-300px);
+	transform:translate(0px,-250px);
 }
 
 /* Hoa-hong-effec End */
