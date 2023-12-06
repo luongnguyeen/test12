@@ -1105,16 +1105,16 @@ audio {
 		-webkit-transform:translate(0px,-1000px);
 	}
 	33%{
-		-webkit-transform:translate(0px,-500px);
+		-webkit-transform:translate(0px,-700px);
 		-webkit-transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		-webkit-transform:translate(0px,-400px);
+		-webkit-transform:translate(0px,-600px);
 		-webkit-transform:rotate(-10deg);
 	}
 	100% {
-		-webkit-transform:translate(0px,-300px);
+		-webkit-transform:translate(0px,-500px);
                  transform:rotate(-60deg);
 	}
 }
@@ -1177,16 +1177,16 @@ audio {
 		transform:translate(0px,-1000px);
 	}
 	33%{
-		transform:translate(0px,-500px);
+		transform:translate(0px,-700px);
 		transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		transform:translate(0px,-400px);
+		transform:translate(0px,-600px);
 		transform:rotate(-10deg);
 	}
 	100% {
-		transform:translate(0px,-300px);
+		transform:translate(0px,-500px);
 		transform:rotate(-60deg);
 	}
 }
