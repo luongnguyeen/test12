@@ -1097,7 +1097,7 @@ audio {
 	-ms-animation: hoahong_come linear 3s;
 	-ms-transform:translate(0px,0px);
 	animation: hoahong_come linear 3s;
-	transform:translate(40px,-100px);
+	transform:translate(20px,-100px);
 }
 
 
