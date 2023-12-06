@@ -1104,16 +1104,16 @@ audio {
 		-webkit-transform:translate(0px,-2000px);
 	}
 	33%{
-		-webkit-transform:translate(0px,-800px);
+		-webkit-transform:translate(0px,0px);
 		-webkit-transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		-webkit-transform:translate(0px,-650px);
+		-webkit-transform:translate(0px,100px);
 		-webkit-transform:rotate(-10deg);
 	}
 	100% {
-		-webkit-transform:translate(0px,-500px);
+		-webkit-transform:translate(0px,0px);
 	}
 }
 @-moz-keyframes hoahong_come {
@@ -1175,16 +1175,16 @@ audio {
 		transform:translate(0px,-2000px);
 	}
 	33%{
-		transform:translate(0px,-800px);
+		transform:translate(0px,0px);
 		transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		transform:translate(0px,-650px);
+		transform:translate(0px,100px);
 		transform:rotate(-10deg);
 	}
 	100% {
-		transform:translate(0px,-500px);
+		transform:translate(0px,0px);
 
 	}
 }
