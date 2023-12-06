@@ -1080,12 +1080,11 @@ audio {
 /* Hoa-hong-effec Start */
 .hoahong {
 	max-width: 50%;
-	-webkit-transform:translate(0px,0px);
-	-moz-transform:translate(-800px,0px);
-	-o-transform:translate(-800px,0px);
-	-ms-transform:translate(-800px,0px);
-	transform:translate(-800px,0px);
-	/*z-index: 9999;*/
+	-webkit-transform:translate(0px,-500px);
+	-moz-transform:translate(0px,-500px);
+	-o-transform:translate(0px,-500px);
+	-ms-transform:translate(0px,-500px);
+	transform:translate(0px,-500px);
 
 }
 .hoahong-come {
