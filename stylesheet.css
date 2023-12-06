@@ -1182,7 +1182,7 @@ audio {
 		transform:rotate(-10deg);
 	}
 	100% {
-		transform:translate(0px,0px);
+		transform:translate(0px,-200px);
 		transform:rotate(-30deg);
 	}
 }
