@@ -1084,7 +1084,7 @@ audio {
 	-moz-transform:translate(0px,-500px);
 	-o-transform:translate(0px,-500px);
 	-ms-transform:translate(0px,-500px);
-	transform:translate(0px,-1000px);
+	transform:translate(0px,-1000px); /* vtri an*/
 
 }
 .hoahong-come {
@@ -1097,7 +1097,7 @@ audio {
 	-ms-animation: hoahong_come linear 3s;
 	-ms-transform:translate(0px,0px);
 	animation: hoahong_come linear 3s;
-	transform:translate(0px,-300px);
+	transform:translate(0px,0px);
 }
 @-webkit-keyframes hoahong_come {
 	0%{
@@ -1121,17 +1121,17 @@ audio {
 		-moz-transform:translate(0px,-1000px);
 	}
 	33%{
-		-moz-transform:translate(0px,-500px);
+		-moz-transform:translate(0px,-700px);
 		-moz-transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		-moz-transform:translate(0px,-400px);
+		-moz-transform:translate(0px,-600px);
 		-moz-transform:rotate(-10deg);
 	}
 	100% {
-		-moz-transform:translate(0px,-300px);
-                transform:rotate(-60deg);
+		-moz-transform:translate(0px,0px);
+        
 	}
 }
 @-o-keyframes hoahong_come {
@@ -1139,17 +1139,17 @@ audio {
 		-o-transform:translate(0px,-1000px);
 	}
 	33%{
-		-o-transform:translate(0px,-500px);
+		-o-transform:translate(0px,-700px);
 		-o-transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		-o-transform:translate(0px,-400px);
+		-o-transform:translate(0px,-600px);
 		-o-transform:rotate(-10deg);
 	}
 	100% {
-		-o-transform:translate(0px,-300px);
-                 transform:rotate(-60deg);
+		-o-transform:translate(0px,0px);
+                 
 	}
 }
 @-ms-keyframes hoahong_come {
@@ -1157,17 +1157,17 @@ audio {
 		-ms-transform:translate(0px,-1000px);
 	}
 	33%{
-		-ms-transform:translate(0px,-500px);
+		-ms-transform:translate(0px,-700px);
 		-ms-transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		-ms-transform:translate(0px,-400px);
+		-ms-transform:translate(0px,-600px);
 		-ms-transform:rotate(-10deg);
 	}
 	100% {
-		-ms-transform:translate(0px,-300px);
-                transform:rotate(-60deg);
+		-ms-transform:translate(0px,0px);
+               
 	}
 }o
 @keyframes hoahong_come {
