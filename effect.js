@@ -188,6 +188,7 @@ $('document').ready(function(){
 
 		
 	$('#wish_message').click(function(){
+		$('.cake').fadeOut('fast');
                  $('.hoahong').addClass('hoahong-come');
 		
 		 vw = $(window).width()/2;
