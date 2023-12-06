@@ -1100,27 +1100,7 @@ audio {
 	transform:translate(0px,-250px);
 }
 
-.hoahong-r {
-	max-width: 100%;
-	-webkit-transform:translate(0px,-500px);
-	-moz-transform:translate(0px,-500px);
-	-o-transform:translate(0px,-500px);
-	-ms-transform:translate(0px,-500px);
-	transform:translate(0px,-2000px); /* vtri an*/
 
-}
-.hoahong-r-come {
-	-webkit-animation: hoahong_come linear 3s;
-	-webkit-transform:translate(0px,-500px);
-	-moz-animation: hoahong_come linear 3s;
-	-moz-transform:translate(0px,0px);
-	-o-animation: hoahong_come linear 3s;
-	-o-transform:translate(0px,0px);
-	-ms-animation: hoahong_come linear 3s;
-	-ms-transform:translate(0px,0px);
-	animation: hoahong_come linear 3s;
-	transform:translate(80px,-250px);
-}
 /* Hoa-hong-effec End */
 
 .balloons {
