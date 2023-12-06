@@ -1087,19 +1087,19 @@ audio {
 	transform:translate(0px,-1500px);
 
 }
-. hoahong -come {
-	-webkit-animation: hoahong _come linear 6s;
+.hoahong-come {
+	-webkit-animation: hoahong_come linear 6s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: hoahong _come linear 6s;
+	-moz-animation: hoahong_come linear 6s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: hoahong _come linear 6s;
+	-o-animation: hoahong_come linear 6s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: hoahong _come linear 6s;
+	-ms-animation: hoahong_come linear 6s;
 	-ms-transform:translate(0px,0px);
-	animation: hoahong _come linear 6s;
+	animation: hoahong_come linear 6s;
 	transform:translate(0px,0px);
 }
-@-webkit-keyframes hoahong _come {
+@-webkit-keyframes hoahong_come {
 	0%{
 		-webkit-transform:translate(0px,-1000px);
 	}
@@ -1116,7 +1116,7 @@ audio {
 		-webkit-transform:translate(0px,0px);
 	}
 }
-@-moz-keyframes hoahong _come {
+@-moz-keyframes hoahong_come {
 	0%{
 		-moz-transform:translate(0px,-1000px);
 	}
@@ -1133,7 +1133,7 @@ audio {
 		-moz-transform:translate(0px,0px);
 	}
 }
-@-o-keyframes hoahong _come {
+@-o-keyframes hoahong_come {
 	0%{
 		-o-transform:translate(0px,-1000px);
 	}
@@ -1150,7 +1150,7 @@ audio {
 		-o-transform:translate(0px,0px);
 	}
 }
-@-ms-keyframes hoahong _come {
+@-ms-keyframes hoahong_come {
 	0%{
 		-ms-transform:translate(0px,-1000px);
 	}
@@ -1167,7 +1167,7 @@ audio {
 		-ms-transform:translate(0px,0px);
 	}
 }o
-@keyframes hoahong _come {
+@keyframes hoahong_come {
 	0%{
 		transform:translate(0px,-1000px);
 	}
