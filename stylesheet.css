@@ -1080,24 +1080,24 @@ audio {
 /* Hoa-hong-effec Start */
 .hoahong {
 	max-width: 50%;
-	-webkit-transform:translate(0px,-800px);
-	-moz-transform:translate(0px,-800px);
-	-o-transform:translate(0px,-800px);
-	-ms-transform:translate(0px,-800px);
+	-webkit-transform:translate(0px,0px);
+	-moz-transform:translate(-800px,0px);
+	-o-transform:translate(-800px,0px);
+	-ms-transform:translate(-800px,0px);
 	transform:translate(-800px,0px);
 	/*z-index: 9999;*/
 
 }
 .hoahong-come {
-	-webkit-animation: hoahong_come linear 8s;
+	-webkit-animation: hoahong_come linear 6s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: hoahong_come linear 8s;
+	-moz-animation: hoahong_come linear 6s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: hoahong_come linear 8s;
+	-o-animation: hoahong_come linear 6s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: hoahong_come linear 8s;
+	-ms-animation: hoahong_come linear 6s;
 	-ms-transform:translate(0px,0px);
-	animation: hoahong_come linear 8s;
+	animation: hoahong_come linear 6s;
 	transform:translate(0px,-200px);
 }
 @-webkit-keyframes hoahong_come {
@@ -1173,16 +1173,16 @@ audio {
 		transform:translate(0px,-1000px);
 	}
 	33%{
-		transform:translate(0px,0px);
+		transform:translate(0px,-500px);
 		transform:rotate(10deg);
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		transform:translate(0px,200px);
+		transform:translate(0px,-400px);
 		transform:rotate(-10deg);
 	}
 	100% {
-		transform:translate(0px,-200px);
+		transform:translate(0px,-300px);
 		transform:rotate(-30deg);
 	}
 }
