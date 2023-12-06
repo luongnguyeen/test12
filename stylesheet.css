@@ -1084,7 +1084,7 @@ audio {
 	-moz-transform:translate(0px,-500px);
 	-o-transform:translate(0px,-500px);
 	-ms-transform:translate(0px,-500px);
-	transform:translate(0px,-800px);
+	transform:translate(0px,-300px);
 
 }
 .hoahong-come {
@@ -1113,7 +1113,7 @@ audio {
 		-webkit-transform:rotate(-10deg);
 	}
 	100% {
-		-webkit-transform:translate(0px,-500px);
+		-webkit-transform:translate(0px,0px);
 	}
 }
 @-moz-keyframes hoahong_come {
@@ -1184,7 +1184,7 @@ audio {
 		transform:rotate(-10deg);
 	}
 	100% {
-		transform:translate(0px,-500px);
+		transform:translate(0px,0px);
 
 	}
 }
