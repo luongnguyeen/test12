@@ -1089,7 +1089,7 @@ audio {
 }
 .hoahong-come {
 	-webkit-animation: hoahong_come linear 3s;
-	-webkit-transform:translate(0px,0px);
+	-webkit-transform:translate(0px,-500px);
 	-moz-animation: hoahong_come linear 3s;
 	-moz-transform:translate(0px,0px);
 	-o-animation: hoahong_come linear 3s;
