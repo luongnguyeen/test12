@@ -1079,7 +1079,7 @@ audio {
 
 /* Hoa-hong-effec Start */
 .hoahong {
-	max-width: 100%;
+	max-width: 50%;
 	-webkit-transform:translate(0px,-800px);
 	-moz-transform:translate(0px,-800px);
 	-o-transform:translate(0px,-800px);
