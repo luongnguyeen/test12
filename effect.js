@@ -189,7 +189,6 @@ $('document').ready(function(){
 		
 	$('#wish_message').click(function(){
                  $('.hoahong').addClass('hoahong-come');
-		 $('.hoahong-r').addClass('hoahong-r-come');
 		
 		 vw = $(window).width()/2;
 
