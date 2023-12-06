@@ -1080,23 +1080,23 @@ audio {
 /* Hoa-hong-effec Start */
 .hoahong {
 	max-width: 100%;
-	-webkit-transform:translate(0px,-500px);
-	-moz-transform:translate(0px,-500px);
-	-o-transform:translate(0px,-500px);
-	-ms-transform:translate(0px,-500px);
-	transform:translate(0px,-1500px);
+	-webkit-transform:translate(0px,-800px);
+	-moz-transform:translate(0px,-800px);
+	-o-transform:translate(0px,-800px);
+	-ms-transform:translate(0px,-800px);
+	transform:translate(0px,-800px);
 
 }
 .hoahong-come {
-	-webkit-animation: hoahong_come linear 6s;
+	-webkit-animation: hoahong_come linear 15s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: hoahong_come linear 6s;
+	-moz-animation: hoahong_come linear 15s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: hoahong_come linear 6s;
+	-o-animation: hoahong_come linear 15s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: hoahong_come linear 6s;
+	-ms-animation: hoahong_come linear 15s;
 	-ms-transform:translate(0px,0px);
-	animation: hoahong_come linear 6s;
+	animation: hoahong_come linear 15s;
 	transform:translate(0px,0px);
 }
 @-webkit-keyframes hoahong_come {
