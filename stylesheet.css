@@ -1183,7 +1183,7 @@ audio {
 	}
 	100% {
 		transform:translate(0px,-300px);
-		transform:rotate(-30deg);
+		transform:rotate(-60deg);
 	}
 }
 /* Hoa-hong-effec End */
