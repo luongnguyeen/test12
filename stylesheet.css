@@ -1084,7 +1084,7 @@ audio {
 	-moz-transform:translate(0px,-500px);
 	-o-transform:translate(0px,-500px);
 	-ms-transform:translate(0px,-500px);
-	transform:translate(0px,-500px);
+	transform:translate(0px,-1500px);
 
 }
 . hoahong -come {
@@ -1372,7 +1372,7 @@ audio {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story,#thoi_nen,#cake_cut, .photo_cua_be, .hoahong {
+#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story,#thoi_nen,#cake_cut, .photo_cua_be{
 	display: none;
 }
 
